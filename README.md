@@ -3,11 +3,7 @@ Line added on feature branch
 Main Line
 Bugfix Line
 Test Line
-<<<<<<< HEAD
 login feature in progress
-=======
-Importand update on main
->>>>>>> main
-
+Important update on main
 ##About
 This repo is for practicing Git workflows
