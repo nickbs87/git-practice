@@ -7,3 +7,4 @@ login feature in progress
 Important update on main
 ##About
 This repo is for practicing Git workflows
+## About This repo is for practicing Git workflows
