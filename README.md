@@ -8,3 +8,6 @@ login feature in progress
 =======
 Importand update on main
 >>>>>>> main
+
+##About
+This repo is for practicing Git workflows
